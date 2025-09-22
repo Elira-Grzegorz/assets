@@ -12,9 +12,8 @@
     { "name": "twitter",  "url": "https://https://x.com/EGCoin_Official" },
     { "name": "github",   "url": "https://github.com/Elira-Grzegorz" },
     { "name": "telegram", "url": "https://t.me/eliragrzegorzcoin" },
-    { "name": "reddit",   "url": "https://www.reddit.com/r/EliraGrzegorzCoin_EGC/" }
-    { "name": "discord",   "url": "https://discord.com/invite/N4pevtFezV" }
+  { "name": "discord",   "url": "https://discord.com/invite/N4pevtFezV" }
     { "name": "medium",   "url": "https://medium.com/@eliragrzegorzcoin" }
   ]
 
-}
+}    
